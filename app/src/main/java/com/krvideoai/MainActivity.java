@@ -1,8 +1,7 @@
-package com.kr.videoai;
+package com.krvideoai;
 
 import android.app.Activity;
 import android.os.Bundle;
-import com.kr.videoai.R;
 
 public class MainActivity extends Activity {
     @Override
